@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<!-- eslint-disable max-len -->
-
-=======
->>>>>>> 21cf42510947c09c4f6bbfd263cb9f1c30d60dcc
 <template lang="pug">
 #app
     .topContainer
@@ -58,38 +53,23 @@ export default {
         { date: '20201201', title: '2021 年藝術學院教育發展基金', content: '2021年發展基金–藝術學院1091120 ' },
         { date: '20201201', title: '【開放報名】2020國立清華大學藝術與設計學系研究生論文研討會', content: '2020國立清華大學藝術與設計學系研究生論文研討會 開放報名 報名網址......' },
         { date: '20200924', title: '清華大學藝設系研究生論文研討會 – 徵稿', content: '' },
-<<<<<<< HEAD
         { date: '20200909', title: 'ARS 2020 – Tsing Hua Garden', content: '今年全球最大的科技藝術節 – 奧地利林茲的〝國際電子藝術節......' },
-=======
-        { date: '20200909', title: 'ARS 2020 – Tsing Hua Garden', content: '今年全球最大的科技藝術節 – 奧地利林茲的〝國際電子藝術節......'}
->>>>>>> 21cf42510947c09c4f6bbfd263cb9f1c30d60dcc
       ],
       newsBottom: [
         { content: '《《' },
         { content: '》》' },
       ],
       welcome: [
-<<<<<<< HEAD
         { title: '院學士班招生 科技藝術！', content: '歡迎你一起來開創清華科技藝術跨域DNA！' },
         { title: '藝設系招生 「藝」鳴驚人！', content: '歡迎你一起來把美感、創意帶入清華生活！' },
         { title: '音樂系招生 全方位音樂人！', content: '歡迎你一起在清華創造音樂心靈饗宴！' },
-=======
-        { title: '院學士班招生 科技藝術！', content: '歡迎你一起來開創清華科技藝術跨域DNA！'},
-        { title: '藝設系招生 「藝」鳴驚人！', content: '歡迎你一起來把美感、創意帶入清華生活！'},
-        { title: '音樂系招生 全方位音樂人！', content: '歡迎你一起在清華創造音樂心靈饗宴！'},
->>>>>>> 21cf42510947c09c4f6bbfd263cb9f1c30d60dcc
       ],
       web: [
         { content: '藝設系' },
         { content: '音樂系' },
         { content: '院學士班' },
         { content: '藝術科技碩班' },
-        { content: '春之藝術專題講座' },
-<<<<<<< HEAD
         { content: '科技藝術研究中心' },
-=======
-        { content: '科技藝術研究中心'},
->>>>>>> 21cf42510947c09c4f6bbfd263cb9f1c30d60dcc
       ],
     };
   },
